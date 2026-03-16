@@ -6,29 +6,69 @@ Gosto de criar soluções eficientes, interfaces intuitivas e APIs bem estrutura
 
 ## 🚀 Tecnologias que utilizo
 **Front-End e Mobile**
-- React Native.
-- Vue.js.
-- HTML, CSS, JavaScript.
+- React Native
+- Vue.js
+- JavaScript / TypeScript
 
 **Back-End**
-- Java (Spring Boot).
-- APIs REST.
+- Java
+- Spring Boot
+- APIs REST
 
 **Banco de Dados**
-- MySQL (consultas nativas e JPA).
+- MySQL
+- JPA / Hibernate
 
 **Outras habilidades**
-- Git (GitHub e GitLab).
-- Metodologias Ágeis (Scrum e Kanban).
-- Jira.
+- Git (GitHub e GitLab)
+- Metodologias Ágeis (Scrum e Kanban)
+- Jira
+
+
+## 📊 GitHub Stats
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Correa-Fiori&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Correa-Fiori&layout=compact)
 
 
 ## 🧑‍💻 Projetos em Destaque
 
-
 ### 📱 App Construtora
-Aplicativo mobile de uma construtora, onde os usuários podem gerenciar seus empreendimentos, ver todas as informações sobre o empreendimento ou contrato, visualização de futuras parcelas para pagar, opção de gerar o boleto e pagar a parcela, visualizar o andamento da obra, galeria, comunicados da obra, entre outras funcionalidades.
-- Tecnologias usadas: React-Native, TypeScript, Tailwind.
+Aplicativo mobile desenvolvido para clientes de uma construtora acompanharem seus empreendimentos e contratos de forma centralizada.
+O aplicativo permite visualizar informações contratuais, consultar parcelas futuras, acompanhar o progresso da obra através de fotografias e receber comunicados relacionados ao empreendimento.
+
+🔗 **Repositório:**
+https://github.com/Matheus-Correa-Fiori/app-construtora
+
+#### Funcionalidades
+- Visualização de contratos e dados do empreendimento.
+- Consulta de parcelas futuras.
+- Geração de boletos para pagamento.
+- Acompanhamento do progresso da obra.
+- Galeria de imagens da construção.
+- Área de comunicados da obra.
+
+#### Tecnologias
+- **React Native** → desenvolvimento do aplicativo mobile.
+- **TypeScript** → tipagem estática e organização do código.
+- **React Navigation** → navegação entre telas.
+- **Tailwind** → estilização dos componentes.
+- **Node.js / NPM** → gerenciamento de dependências.
+
+#### Desafios técnicos
+- Estruturação da arquitetura do app para facilitar manutenção.
+- Simulação de serviços e APIs utilizando **mock de dados**.
+- Organização das camadas de **services, components e screens**.
+- Implementação de navegação e gerenciamento de estado.
+- Construção de componentes reutilizáveis.
+
+#### Conceitos aplicados
+- Separação de responsabilidades.
+- Consumo de serviços.
+- Componentização.
+- Gerenciamento de estado.
+- Layout responsivo.
 
 
 ## 💼 Experiência Profissional
