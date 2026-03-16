@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Correa Fiori - Desenvolvedor Full Stack
 
-Meu nome é Matheus Correa Fiori. Sou **Desenvolvedor Full Stack** com 2 anos de experiência em projetos **web** e **mobile**, atuando com **React Native, Vue.js, Java (Spring Boot)** e **MySQL**.
+Meu nome é Matheus Correa Fiori. Sou **Desenvolvedor Full Stack** com 3 anos de experiência em projetos **web** e **mobile**, atuando com **React Native, Vue.js, Java (Spring Boot)** e **MySQL**.
 Gosto de criar soluções eficientes, interfaces intuitivas e APIs bem estruturadas, sempre buscando aprender mais e entregar valor aos times e usuários.
 
 
