@@ -25,13 +25,6 @@ Gosto de criar soluções eficientes, interfaces intuitivas e APIs bem estrutura
 - Jira
 
 
-## 📊 GitHub Stats
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Correa-Fiori&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Correa-Fiori&layout=compact)
-
-
 ## 🧑‍💻 Projetos em Destaque
 
 ### 📱 App Construtora
