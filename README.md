@@ -1,120 +1,102 @@
-# 👨‍💻 Matheus Correa Fiori - Desenvolvedor Full Stack
-
-Meu nome é Matheus Correa Fiori. Sou **Desenvolvedor Full Stack** com 3 anos de experiência em projetos **web** e **mobile**, atuando com **React Native, Vue.js, Java (Spring Boot)** e **MySQL**.
-
-Gosto de criar soluções eficientes, interfaces intuitivas e APIs bem estruturadas, sempre buscando aprender mais e entregar valor aos times e usuários.
+# 👨‍💻 Matheus Correa Fiori
 
 
-## 🚀 Tecnologias que utilizo
-**Front-End e Mobile**
-- React Native
-- Vue.js
-- JavaScript / TypeScript
+## Desenvolvedor Full Stack
 
-**Back-End**
-- Java
-- Spring Boot
-- APIs REST
+Desenvolvedor Full Stack com experiência profissional no desenvolvimento e manutenção de aplicações web e mobile.
 
-**Banco de Dados**
-- MySQL
-- JPA / Hibernate
+Tenho experiência principalmente com **Java**, **Spring Boot**, **REST APIs**, **JPA/Hibernate**, **MySQL**, **React Native**, **Vue.js**, **JavaScript** e **TypeScript**, além de experiência com integração de soluções de **IA/LLMs através de APIs**.
 
-**Outras habilidades**
-- Git (GitHub e GitLab)
-- Metodologias Ágeis (Scrum e Kanban)
-- Jira
+Atuo no desenvolvimento de funcionalidades, integração entre aplicações e APIs, manutenção corretiva e evolutiva, otimização de consultas e melhoria da experiência do usuário.
 
 
-## 🧑‍💻 Projetos em Destaque
+## 🛠️ Tecnologias
 
-### 📱 App Construtora
-Aplicativo mobile desenvolvido para clientes de uma construtora acompanharem seus empreendimentos e contratos de forma centralizada.
+### Backend
+* Java
+* Spring Boot
+* APIs REST
+* JPA / Hibernate
 
-O aplicativo permite visualizar informações contratuais, consultar parcelas futuras, acompanhar o progresso da obra através de fotografias e receber comunicados relacionados ao empreendimento.
+### Frontend & Mobile
+* React Native
+* Vue.js
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
 
-🔗 **Repositório:**
-- https://github.com/Matheus-Correa-Fiori/app-construtora
+### Banco de Dados
+* MySQL
+* SQL
 
-#### Funcionalidades
-- Visualização de contratos e dados do empreendimento.
-- Consulta de parcelas futuras.
-- Geração de boletos para pagamento.
-- Acompanhamento do progresso da obra.
-- Galeria de imagens da construção.
-- Área de comunicados da obra.
+### Inteligência Artificial
+* APIs de IA / LLM
+* Prompt Engineering
+* NLP
 
-#### Tecnologias
-- **React Native** → desenvolvimento do aplicativo mobile.
-- **TypeScript** → tipagem estática e organização do código.
-- **React Navigation** → navegação entre telas.
-- **Tailwind** → estilização dos componentes.
-- **Node.js / NPM** → gerenciamento de dependências.
+### Ferramentas & Metodologias
+* Git
+* GitHub
+* GitLab
+* Jira
+* Scrum
+* Kanban
 
-#### Desafios técnicos
-- Estruturação da arquitetura do app para facilitar manutenção.
-- Simulação de serviços e APIs utilizando **mock de dados**.
-- Organização das camadas de **services, components e screens**.
-- Implementação de navegação e gerenciamento de estado.
-- Construção de componentes reutilizáveis.
 
-#### Conceitos aplicados
-- Separação de responsabilidades.
-- Consumo de serviços.
-- Componentização.
-- Gerenciamento de estado.
-- Layout responsivo.
+## 🚀 Projetos
+
+### App Construtora
+Aplicativo mobile desenvolvido para clientes de uma construtora acompanharem seus empreendimentos, contratos, parcelas, progresso da obra e comunicados.
+
+**Tecnologias:** React Native, TypeScript, APIs REST, OneSignal.
+
+### Plataforma de Vídeos
+Projeto de estudo e desenvolvimento de uma plataforma de vídeos inspirada em funcionalidades de plataformas como YouTube.
+
+**Tecnologias:** Java, Spring Boot, React Native, MySQL.
+
+### Vida Láctea
+Aplicativo mobile voltado ao gerenciamento de animais, operações de ordenha e medicamentos.
+
+**Tecnologias:** React Native, Spring Boot, APIs REST, MySQL.
+
+### Plataforma Web Educacional
+Sistema web voltado ao gerenciamento de conteúdos educacionais.
+
+**Tecnologias:** Vue.js, Spring Boot, APIs REST.
 
 
 ## 💼 Experiência Profissional
 
-**Desenvolvedor Full Stack | Estagiário - Astus**
+### Astus
+#### Desenvolvedor Full Stack | Estagiário
+2022 - 2024
 
-📍 Curitiba, PR - **2022 - 2024**
+Desenvolvimento e manutenção de aplicações web e mobile utilizando Java, Spring Boot, JPA/Hibernate, MySQL, Vue.js e React Native.
 
-Atuei no desenvolvimento de aplicações web e mobile:
+### SILVA NM CONSULTORIA
+#### Desenvolvedor Full Stack Júnior
+#### Projeto: Rottas Construtora
+2025
 
-- Criação de APIs REST com Spring Boot.
-- Manipulação de banco de dados MySQL com JPA.
-- Interfaces responsivas usando Vue.js e React Native.
-- Estilização de componentes, prototipação e melhorias de UX.
-- Otimização de performance e manutenção de funcionalidades.
-- Organização de tarefas com Jira (Scrum & Kanban).
-- Gestão de branches e pull requests (GitHub/GitLab).
-
-**Principais resultados**
-- Aceleração de 20% no tempo de resposta de APIs.
-- Entrega de soluções que atenderam demandas de clientes e time.
+Desenvolvimento e manutenção de aplicação mobile utilizando React Native e TypeScript, com integração a APIs backend e implementação de funcionalidades relacionadas ao acompanhamento de empreendimentos e comunicação com clientes.
 
 
 ## 🎓 Formação
 
-**Tecnologia em Análise e Desenvolvimento de Sistemas**
-
+### Tecnologia em Análise e Desenvolvimento de Sistemas
 Universidade Federal do Paraná (UFPR)
-
-📅 2021 - 2024
-
-
-## 🌍 Idiomas
-
-**Inglês - Intermediário**
-
-Ótima compreensão de documentação técnica e escrita em inglês profissional.
+2021 - 2024
 
 
-## 🎯 Objetivo Profissional
+## 🌎 Idiomas
 
-Atuar como desenvolvedor em projetos desafiadores e inovadores, contribuindo com soluções eficientes e evoluindo constantemente minhas habilidades.
-
-
-## 📫 Entre em contato
-
-📧 **mathfiori2075@gmail.com**
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/matheus-correa-fiori/
-
-🐙 **GitHub:** https://github.com/Matheus-Correa-Fiori
+### Inglês - Intermediário
+Boa compreensão de documentação técnica e escrita profissional em inglês.
 
 
-⭐ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
+## 📫 Contato
+**Email:** mathfiori2075@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/matheus-correa-fiori/
+**GitHub:** https://github.com/Matheus-Correa-Fiori/
