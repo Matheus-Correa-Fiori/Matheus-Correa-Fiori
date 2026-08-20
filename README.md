@@ -148,6 +148,7 @@ Além das tecnologias utilizadas diretamente nos projetos, tenho experiência e 
 
 ### Tecnologia em Análise e Desenvolvimento de Sistemas
 Universidade Federal do Paraná (UFPR)
+
 2021 - 2024
 
 
